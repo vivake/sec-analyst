@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Python virtual environment
+venv/
+
+# Other files to ignore based on your project needs
+.DS_Store
